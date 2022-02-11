@@ -1,0 +1,7 @@
+Steps
+=====
+1. Configure aws with the Access Key and Secret Access Key
+2. Create providers.tf file 
+3. Run command "terraform init" to initialize the file
+4. Open another file "resources.tf" for creating resources
+5. Refer to the Terraform AWS VCP documentation on what are the arguments to be used for VPC creation
