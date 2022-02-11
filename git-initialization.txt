@@ -1,0 +1,10 @@
+Steps: 
+======
+1. Create Repo in Git Hub
+2. In the current folder run the following commands:
+    a. "git init"
+    b. "git remote add origin https://github.com/reshma-aws/iac-project-1.git"
+    c. "git branch -M main
+    d. "git add ."
+    e. "git commit -m "<message>""
+    f. git push -u origin main
